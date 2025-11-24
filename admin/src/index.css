@@ -23,3 +23,8 @@ body{
 ::-webkit-scrollbar{
     display: none;
 }
+
+.active{
+    background-color: #115e5955;
+    border-color: #115e59;
+}
