@@ -19,7 +19,7 @@ const Collection = () => {
 
   useEffect(() => {
     applyFilter();
-  }, [selectedCategories, selectedTypes, search, showSearch]);
+  }, [selectedCategories, selectedTypes, search, showSearch, products]);
 
   useEffect(() => {
     sortProduct();
