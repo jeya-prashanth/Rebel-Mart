@@ -51,7 +51,7 @@ const List = ({token}) => {
       <p className='mb-2'>All Products List</p>
       <div className='flex flex-col gap-2'>
         {/* List Table Titles */}
-        <div className='hidden md:grid grid-cols-[1fr_3fr_1fr_1fr_1fr] items-center px-2 py-1 border bg-gray-100 text-sm'>
+        <div className='hidden md:grid grid-cols-[1fr_3fr_1fr_1fr_1fr] items-center px-2 py-1 border bg-[#115e5911] text-sm'>
           <b>Image</b>
           <b>Name</b>
           <b>Category</b>
